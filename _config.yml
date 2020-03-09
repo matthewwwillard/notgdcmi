@@ -7,6 +7,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 location: https://www.google.com/maps/place/Lawrence+Technological+University/@42.4755011,-83.2519854,17z/data=!3m1!4b1!4m5!3m4!1s0x8824c829724c7e31:0x2573d707405921d7!8m2!3d42.4755011!4d-83.2497967
 eventbrite: https://www.eventbrite.com/e/notgdc-michigan-gaming-convention-tickets-98692870031
+discord: https://discord.gg/5RxnkKG
 # Author Settings
 author: NOT GDC MI # add your name
 author-img: logo_small.png # add your photo
