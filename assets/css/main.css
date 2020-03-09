@@ -1225,7 +1225,7 @@ a.newer-posts:hover {
 }
 
 .page-cover-image .page-image {
-  height: 100%;
+  max-width: 100%;
   margin: auto;
   display: block;
 }
