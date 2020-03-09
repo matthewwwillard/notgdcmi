@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Welcome to NOT GDC MI 2020!"
+date: 2020-03-08 12:00
+description: Welcome to NOT GDC MI 2020
+img:  logo.png
+---
+
+Welcome to NOT GDC MI 2020. Your NOT Game Developer's Conference in Michigan at Lawerence Technical Institute! Join us for some talks and bonding!
