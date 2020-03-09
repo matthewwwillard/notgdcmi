@@ -7,3 +7,11 @@ img:  logo.png
 ---
 
 Welcome to NOT GDC MI 2020. Your NOT Game Developer's Conference in Michigan at Lawerence Technical Institute! Join us for some talks and bonding!
+
+## Here are some noteworthy links and info as well!
+
+__Register:__ [Eventbrite]({{site.eventbrite}})
+
+__Located:__ [Lawerence Tech in Southfield]({{site.location}}) rooms (T412/T411)
+
+__Discord:__ [Gamedev MI]({{site.discord}})
