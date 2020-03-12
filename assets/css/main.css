@@ -1344,6 +1344,14 @@ a.newer-posts:hover {
   opacity: .8;
 }
 
+iframe{
+  border: none;
+    margin: auto;
+    display: block;
+    width: 100%;
+    min-height: 600px;
+}
+
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
