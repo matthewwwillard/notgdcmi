@@ -1,10 +1,14 @@
 ---
 layout: post
 title: "Covid-19 Updates!"
-date: 2020-03-12 12:00:00
+date: 2020-03-13 12:00:00
+edited: true
 description: NOT GDC MI & Covid-19
 # img:  logo.png
 ---
+
+**EDIT 3/13/2020** Due to the concerns of COVID-19, we are now doing both inperson and streaming. You can access the YoutubeLive stream to see all talks [Here](https://www.youtube.com/channel/UCC8GNKN98f3aP1Q4YToy1Gg)
+
 This is a statement regarding COVID-19 and how it affects notGDC Michigan 2020 on Saturday, March 14.
 
 notGDC Michigan was organized in part because of the rich community of game developers in Michigan, and because of the official postponement of GDC in San Francisco - our event would be an alternative for local developers who had to cancel travel plans. As of Wednesday, March 11, 2020, a limited number of cases of COVID-19 have been confirmed in Michigan, and many public schools have taken action for the safety of their students and staff.

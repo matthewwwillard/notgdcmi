@@ -1351,6 +1351,17 @@ iframe{
     width: 100%;
     min-height: 600px;
 }
+.header-box
+{
+  display: block;
+    width: 100%;
+    padding:10px;
+    text-align: center;
+    background-color: green;
+    font-size: 20px;
+    color:white;
+    text-decoration: none;
+}
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 /* Medium Devices, Desktops */
