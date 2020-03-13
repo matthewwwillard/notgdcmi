@@ -1362,7 +1362,10 @@ iframe{
     color:white;
     text-decoration: none;
 }
-
+.warning
+{
+  background-color: orange;
+}
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {

@@ -6,8 +6,9 @@ edited: true
 description: NOT GDC MI & Covid-19
 # img:  logo.png
 ---
+**EDIT 3/13/2020 5:00PM** Due to rapidly changing situation, and from local attendee feedback, event is postponed for later in 2020.
 
-**EDIT 3/13/2020** Due to the concerns of COVID-19, we are now doing both inperson and streaming. You can access the YoutubeLive stream to see all talks [Here](https://www.youtube.com/channel/UCC8GNKN98f3aP1Q4YToy1Gg)
+**EDIT 3/13/2020 12:00PM** Due to the concerns of COVID-19, we are now doing both inperson and streaming. You can access the YoutubeLive stream to see all talks [Here](https://www.youtube.com/channel/UCC8GNKN98f3aP1Q4YToy1Gg)
 
 This is a statement regarding COVID-19 and how it affects notGDC Michigan 2020 on Saturday, March 14.
 
